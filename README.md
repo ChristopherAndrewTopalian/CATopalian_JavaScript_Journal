@@ -3,6 +3,8 @@ A JavaScript App that enables the person to make journal entries and edit them.
 
 USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Journal/CATopalian_JavaScript_Journal.html
 
+![screenshot_001](src/media/texture/screenshots/001.JPG)  
+
 ---
 
 How to Download this App
